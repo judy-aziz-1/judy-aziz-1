@@ -72,15 +72,6 @@ A web-based network simulator designed for teaching hacking and network security
 
 ---
 
-## What I'm Currently Working On
-
-- 🔐 Building a **Python log analyzer** that detects suspicious network patterns (brute-force, port scans) — targeting my cybersecurity portfolio
-- 🤖 Learning **vibe coding** with Cursor and Claude to ship full-stack apps using prompt engineering
-- 📜 Completing **Cisco Networking Basics** and **Introduction to Cybersecurity** certifications (NetAcad)
-- 🧠 Studying **prompt engineering** via DeepLearning.AI's free course
-
----
-
 ## Currently Learning
 
 ```
